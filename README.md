@@ -1,2 +1,2 @@
-# Welcome to the SonicPi repository. My attempt to improve my musicianship and my coding simultaneously.
+# Welcome to my SonicPi repository. This is my attempt at improving my musicianship and my coding.
 # Phillip Gay
